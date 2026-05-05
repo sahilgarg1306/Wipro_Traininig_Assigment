@@ -1,0 +1,18 @@
+.banner {
+    width: 960px;
+    height: 275px;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+
+.nav a {
+    text-decoration: none;
+    margin: 10px;
+    color: purple;
+}
+
+.page_wrapper{
+    text-align: center;
+    font-family: Arial;
+}
